@@ -42,6 +42,10 @@
 		{
 			"Name": "PluginThirdPartyLibrary",
 			"Enabled": false
+		},
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
 		}
 	]
 }
